@@ -21,7 +21,7 @@ class SimpleAgent:
 
     def run(self, user_task):
         """运行 Agent 的主循环"""
-        print(f"&#x1f3af; 用户任务: {user_task}")
+        print(f" 用户任务: {user_task}")
         print("=" * 40)
 
         # 第一步：感知与初步思考
